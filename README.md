@@ -35,4 +35,3 @@ This is dictionary service which runs in the background and shows the meaning on
 
 #### Remember this service will restart automatically if you start your system again.
 
-### The Pressing of "Q" is really annoying ;)
